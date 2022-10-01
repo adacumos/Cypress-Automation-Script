@@ -1,0 +1,20 @@
+{
+    "firstName": "Marketing",
+    "lastName": "Automation",
+    "phoneNumber": "(617) 389-0046",
+    "passWord": "12345678",
+    "billingAddress1": "565 Nauset Rd",
+    "billingAddress2": "4th Street",
+    "billingPostCode": "02149",
+    "billingCity": "Eastham",
+    "billingState": "MA",
+    "billingCountry": "US",
+    "billingPhone": "(508) 247-8974",
+    "shippingAddress1": "Apple Island",
+    "shippingAddress2": "4th Street",
+    "shippingPostCode": "02152",
+    "shippingCity": "Boston",
+    "shippingState": "MA",
+    "shippingCountry": "US",
+    "shippingPhone": "(781) 674-2276"
+}
