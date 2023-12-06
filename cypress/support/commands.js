@@ -786,8 +786,8 @@ Cypress.Commands.add("VerifyOrders", (_file) => {
     cy.wait(2000)
 
     // Login
-    cy.get('#email').should('be.visible').type('super@example.com')
-    cy.get('#password').should('be.visible').type('123456')
+    cy.get('#email').should('be.visible').type('user@example.com')
+    cy.get('#password').should('be.visible').type('pass')
     cy.wait(2000)
     // Click Login
     cy.get('button[class="btn btn--primary type--uppercase"]').should('be.visible').click()
